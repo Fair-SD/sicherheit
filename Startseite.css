@@ -1,0 +1,130 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 732px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 379px;
+  margin: 210px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 26px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 712px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 359px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 579px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 226px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .embed-responsive-1 {
+    width: 198%;
+    left: -49%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .embed-responsive-1 {
+    width: 314%;
+    left: -107%;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 310px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 19px auto 60px 0;
+}.u-section-4 .u-sheet-1 {
+  min-height: 518px;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  grid-gap: 0px 0px;
+  width: 1120px;
+  height: 656px;
+  margin: -190px 0 52px auto;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 10px 0 10px 10px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 10px 0 10px 10px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 10px 0 10px 10px;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 10px 0 10px 10px;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 10px 0 10px 10px;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding: 10px 0 10px 10px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(3, 33.333333333333336%);
+    width: 940px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(2, 50%);
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-repeater-1 {
+    width: 340px;
+  }
+}.footer {
+	background-color: #fff
+}
